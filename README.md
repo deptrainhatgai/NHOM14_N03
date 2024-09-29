@@ -35,6 +35,12 @@ Dự án là một hệ thống quản lý đăng kí học cho sinh viên giúp
 
 ### Giao diện đầu tiên của dự án
 
+<img width="400" alt="Ảnh màn hình 2024-09-29 lúc 15 54 27" src="https://github.com/user-attachments/assets/bd8f8774-074a-4b92-a099-3b8f8b7203f9">
+### Màn hình chính
+<img width="399" alt="Ảnh màn hình 2024-09-29 lúc 15 54 49" src="https://github.com/user-attachments/assets/af6bfbd0-87ce-4cd3-8529-8a862ed13ca5">
+
+
+
 
 
 
