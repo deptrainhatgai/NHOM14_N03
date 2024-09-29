@@ -34,10 +34,19 @@ Dự án là một hệ thống quản lý đăng kí học cho sinh viên giúp
 ![image](https://github.com/user-attachments/assets/4110a3e9-2a5a-4ead-9353-25ee1f61d064)
 
 ### Giao diện đầu tiên của dự án
+<img width="1792" alt="Ảnh màn hình 2024-09-29 lúc 15 57 54" src="https://github.com/user-attachments/assets/2b2dae0e-0d8e-4523-8557-009a82996688">
 
-<img width="400" alt="Ảnh màn hình 2024-09-29 lúc 15 54 27" src="https://github.com/user-attachments/assets/bd8f8774-074a-4b92-a099-3b8f8b7203f9">
 ### Màn hình chính
-<img width="399" alt="Ảnh màn hình 2024-09-29 lúc 15 54 49" src="https://github.com/user-attachments/assets/af6bfbd0-87ce-4cd3-8529-8a862ed13ca5">
+<img width="1792" alt="Ảnh màn hình 2024-09-29 lúc 15 58 09" src="https://github.com/user-attachments/assets/4fc8a1f6-6e20-4e63-a42e-c57d0a02ca96">
+
+
+
+
+
+
+
+
+
 
 
 
