@@ -39,6 +39,8 @@ Dự án là một hệ thống quản lý đăng kí học cho sinh viên giúp
 ### Màn hình chính
 <img width="1792" alt="Ảnh màn hình 2024-09-29 lúc 15 58 09" src="https://github.com/user-attachments/assets/4fc8a1f6-6e20-4e63-a42e-c57d0a02ca96">
 
+### link youtube
+https://youtu.be/x44OpP8eqMk?si=dFuN37uGOShBOF86
 
 
 
